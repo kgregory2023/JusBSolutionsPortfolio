@@ -12,7 +12,7 @@ This is my Cybersecurity portfolio for the JusB Solutions Internship Application
   A full cyber kill chain exercise simulating attacker and defender perspectives.  
   ➤ [Slides](./reports/red_blue_team_slides.pdf)
 
-- 💻 **Capstone Full-Stack Web App**  
+- 💻 **UniConnect Capstone Full-Stack Web Application**  
 Led security design for a networking platform used by 4+ test users, implementing JWT authentication and encrypted 
 session handling Designated RBAC logic to control access across 2 user tiers, mitigating unauthorized data exposure in application routes
 Worked and help manage a 4 person team to integrate secure backend logic with frontend usability, ensuring seamless user experience and 
