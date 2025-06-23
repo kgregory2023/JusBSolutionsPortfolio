@@ -7,6 +7,8 @@ Skilled in OSINT, MITRE ATT&CK mapping, and incident triage through red and blue
 Security+ certified with proven success in real-world security projects, attack surface analysis, threat analysis and AI-based detection systems. 
 Strong communicator with a passion for translating technical findings into actionable security insights and reports.
 
+Cover Letter: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/JusBSolutions%20CoverLetter_Kieren%20Gregory.pdf
+
 
 ## 🔐 Highlights
 
