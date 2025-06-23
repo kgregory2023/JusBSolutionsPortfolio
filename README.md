@@ -9,6 +9,10 @@ Strong communicator with a passion for translating technical findings into actio
 
 Cover Letter: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/JusBSolutions%20CoverLetter_Kieren%20Gregory.pdf
 
+Resume: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/JusBSolutionsResume_KierenGregory%20(1).pdf
+
+Three Refences List: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/References%20List%20(1).pdf
+
 
 ## 🔐 Highlights
 
@@ -30,3 +34,29 @@ security alignment
 - 🧠 **APT33 Iran Threat Case Study**  
   Researched and profiled a real-world APT group including TTPs and mitigation.  
   ➤ [Case Study PDF](https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/Iran%20APT33%20Case%20Study.pdf)
+
+# TryHackMe OSINT Challenge Labs 🕵️‍♂️
+
+https://github.com/kgregory2023/TryHackMEOSINTChallenges
+
+This repository documents my work on various OSINT (Open-Source Intelligence) labs from TryHackMe. These exercises strengthened my geolocation, image forensics, and investigative analysis skills relevant to threat intel and blue team work.
+
+## 🔍 Completed Rooms
+
+### 1. **Searchlight IMINT**
+- Used Google Dorking, reverse image searches, and visual recognition to geolocate targets.
+- Applied IMINT (Image Intelligence) and GEOINT (Geospatial Intelligence) techniques using public data.
+- Key skills: Google Maps analysis, metadata inference, facial/contextual visual ID.
+
+### 2. **Sakura Room (OSINT Dojo)**
+- Solved a set of real-world inspired CTF-style OSINT challenges.
+- Performed username enumeration, image tracking, metadata parsing, and social media investigation.
+- Demonstrated advanced pivoting and logical deduction across platforms.
+
+## 🛠️ Skills Applied
+- Geolocation with Google Maps & Street View
+- Reverse image searching (Google, Yandex)
+- OSINT profiling and cross-referencing identities
+- Visual analysis for threat identification
+- Basic scripting for investigative automation
+
