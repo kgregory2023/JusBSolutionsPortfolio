@@ -17,7 +17,7 @@ Led security design for a networking platform used by 4+ test users, implementin
 session handling Designated RBAC logic to control access across 2 user tiers, mitigating unauthorized data exposure in application routes
 Worked and help manage a 4 person team to integrate secure backend logic with frontend usability, ensuring seamless user experience and 
 security alignment  
-  ➤ [Project Folder](./projects/capstone-web-app/README.md)
+  ➤ [Project Folder](https://github.com/kgregory2023/UniConnectWebApp-Capstone-University-Projects)
 
 - 🧠 **APT Threat Case Study (Iran APT Group)**  
   Researched and profiled a real-world APT group including TTPs and mitigation.  
