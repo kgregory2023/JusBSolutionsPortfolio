@@ -6,7 +6,7 @@ This is my Cybersecurity portfolio for the JusB Solutions Internship Application
 
 - 🛡️ **Penetration Testing Report**  
   Real-world simulation covering reconnaissance, exploitation, and post-exploitation across a production-like network.  
-  ➤ [View Report](./reports/pentest_report.pdf)
+  ➤ [View Report](https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/Pen%20Test%20Report%20University%20of%20West%20Florida%20.pdf)
 
 - 🔴🔵 **Red Team vs Blue Team Operation Slides**  
   A full cyber kill chain exercise simulating attacker and defender perspectives.  
@@ -21,4 +21,4 @@ security alignment
 
 - 🧠 **APT Threat Case Study (Iran APT Group)**  
   Researched and profiled a real-world APT group including TTPs and mitigation.  
-  ➤ [Case Study PDF](./reports/apt_case_study.pdf)
+  ➤ [Case Study PDF](https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/Iran%20APT33%20Case%20Study.pdf)
