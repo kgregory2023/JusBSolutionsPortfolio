@@ -35,7 +35,7 @@ security alignment
   Researched and profiled a real-world APT group including TTPs and mitigation.  
   ➤ [Case Study PDF](https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/Iran%20APT33%20Case%20Study.pdf)
 
-# TryHackMe OSINT Challenge Labs 🕵️‍♂️
+ **TryHackMe OSINT Challenge Labs** 
 
 https://github.com/kgregory2023/TryHackMEOSINTChallenges
 
