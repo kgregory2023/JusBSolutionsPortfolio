@@ -19,6 +19,6 @@ Worked and help manage a 4 person team to integrate secure backend logic with fr
 security alignment  
   ➤ [Project Folder](https://github.com/kgregory2023/UniConnectWebApp-Capstone-University-Projects)
 
-- 🧠 **APT Threat Case Study (Iran APT Group)**  
+- 🧠 **APT33 Iran Threat Case Study**  
   Researched and profiled a real-world APT group including TTPs and mitigation.  
   ➤ [Case Study PDF](https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/Iran%20APT33%20Case%20Study.pdf)
