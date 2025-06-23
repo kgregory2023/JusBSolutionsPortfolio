@@ -11,7 +11,7 @@ Cover Letter: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/J
 
 Resume: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/JusBSolutionsResume_KierenGregory%20(1).pdf
 
-Three Refences List: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/References%20List%20(1).pdf
+Three References List: https://github.com/kgregory2023/JusBSolutionsPortfolio/blob/main/References%20List%20(1).pdf
 
 
 ## 🔐 Highlights
