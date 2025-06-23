@@ -1,6 +1,12 @@
 # JusBSolutionsPortfolio Kieren Gregory
 This is my Cybersecurity portfolio for the JusB Solutions Internship Application
 
+**Summary:**
+Cybersecurity Master’s student with hands-on experience in threat intelligence, penetration testing, and secure software development. 
+Skilled in OSINT, MITRE ATT&CK mapping, and incident triage through red and blue team cyber operations. 
+Security+ certified with proven success in real-world security projects, attack surface analysis, threat analysis and AI-based detection systems. 
+Strong communicator with a passion for translating technical findings into actionable security insights and reports.
+
 
 ## 🔐 Highlights
 
